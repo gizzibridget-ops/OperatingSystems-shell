@@ -1,0 +1,32 @@
+Team Members:
+1. Bridget Gizzi
+2. Jake Bertorello
+3. Jack Waite
+
+Part 1: System Call Tracing
+- Bridget Gizzi
+
+Part 2: Timer Kernel Module
+- Bridget Gizzi 
+
+Part 3a: Adding System Calls
+- Jake Bertorello, Jack Waite
+
+Part 3b: Kernel Compilation
+- Jake Bertorello, Jack Waite
+
+Part 3c: Threads
+- Jake Bertorello, Jack Waite
+
+Part 3d: Linked List
+- Jake Bertorello, Jack Waite
+
+Part 3e: Mutexes
+- Jake Bertorello, Jack Waite
+
+Part 3f: Scheduling Algorithm
+- Jake Bertorello, Jack Waite
+
+Please note that these assignments are subject to discussion and adjustment based on the team's
+agreement and individual expertise. Regular communication and collaboration among team
+members are encouraged to ensure successful completion of the project.
